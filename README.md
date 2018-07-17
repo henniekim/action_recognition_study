@@ -12,7 +12,7 @@ This page is a collection to study 'Action Recognition'. Notice that following l
 3. [TRECVID](https://www-nlpir.nist.gov/projects/trecvid/) 여기가 메인, 각종 컨테스트 진행 
 4. [Yahoo Flickr Creative Commons 100M](https://webscope.sandbox.yahoo.com/catalog.php?datatype=i&did=67&guccounter=1) - [아마존 AWS](https://us-east-2.console.aws.amazon.com/console/home?region=us-east-2) 계정 필요. - [[paper]](https://webscope.sandbox.yahoo.com/files/W14-5406.pdf)
 5. [KISA](https://www.kisa.or.kr/notice/press_View.jsp?mode=view&p_No=8&b_No=8&d_No=1497) (한국) KISA 지능형 CCTV 성능 평가 - [[안내 PDF]](https://www.kisis.or.kr/common/proc/kisis/bbs/28/fileDownLoad/1882.do) 배포용 - 시험용 - 인증용 3단계로 이루어짐: **배회 침입** 유기 쓰러짐 싸움 방화 6 카테고리 분류 (볼드체는 필수 항목) / 배포용 DB의 양이 많지 않아 실험 진행에 어려움이 많을 듯 
-6. [VIRAT Video Dataset](http://www.viratdata.org/) 차량 관련 surveillance 데이터 - 왜 인지 모르겠지만 압축파일이 손상됨, 메일 보냄 회신 대기중 **
+6. [VIRAT Video Dataset](http://www.viratdata.org/) 차량 관련 surveillance 데이터 - 왜 인지 모르겠지만 압축파일이 손상됨, 메일 보냄 **회신 대기중**
 
 ### 2.2 Human Action 
 1. [Kinetics-400](https://deepmind.com/research/open-source/open-source-datasets/kinetics/) - 400개 action / 10초 비디오 [[paper]](https://arxiv.org/pdf/1705.07750.pdf)
@@ -35,7 +35,7 @@ This page is a collection to study 'Action Recognition'. Notice that following l
 
 ### 3.2 Collections
 1. [Awesome action recognition](https://github.com/jinwchoi/awesome-action-recognition) - 사람 액션 관련 다 있음 !! 
-2. ** [Deep Learning for Videos: A 2018 Guide to Action Recognition](http://blog.qure.ai/notes/deep-learning-for-videos-action-recognition-review) - 이건 꼭 봐야 한다 비디오를 위한 딥러닝, 방법론이 매우 잘 소개되어 있다. **
+2. **[Deep Learning for Videos: A 2018 Guide to Action Recognition](http://blog.qure.ai/notes/deep-learning-for-videos-action-recognition-review) - 이건 꼭 봐야 한다 비디오를 위한 딥러닝, 방법론이 매우 잘 소개되어 있다.**
  
 
 ## 4. Progress
