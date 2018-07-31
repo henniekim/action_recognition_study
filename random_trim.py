@@ -1,3 +1,4 @@
+#to trim normal video of random range
 import cv2
 import csv
 import random
