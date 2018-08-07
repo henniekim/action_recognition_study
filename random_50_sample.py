@@ -25,10 +25,10 @@ with open('trimmed_ucfcrimes_flow.csv', newline='') as csvfile:
     #for row in label:
      #   print(len(row))
 
-    rand_list.append(random.sample(label[0],50))
-    rand_list.append(label[1]+random.sample(label[1],4))
+    rand_list.append(random.sample(label[0],count))
+    rand_list.append(label[1]+random.sample(label[1],count-46))
     for i in range(2,14):
-        rand_list.append(random.sample(label[i],50))
+        rand_list.append(random.sample(label[i],count))
 
 with open('trimmed_ucfcrimes_classification_list.csv', 'w', newline='') as csvfile:
     spamwriter = csv.writer(csvfile)
